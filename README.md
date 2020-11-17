@@ -1,6 +1,12 @@
 # college_scraper
 
-A new Flutter project.
+FrontEnd for the coolege scraper 
+this is an expermintal frontEnd for the api scraper of KSU unversity 
+trying to make interacting with the api backEnd eazier and acceable through the app store 
+flutter was a great choice for that 
+
+
+features of the app are eazy such as graghs and detailed data about a student
 
 ## Getting Started
 
